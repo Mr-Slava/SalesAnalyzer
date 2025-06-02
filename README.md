@@ -39,6 +39,8 @@ Run main.py
 
 Select Excel data file when prompted
 
-![1](https://github.com/user-attachments/assets/1c09b144-e679-40fb-9775-3fea11424288)
-![2](https://github.com/user-attachments/assets/e9a0253c-f72c-4d94-b9fe-1ffd5254582e)
-![3](https://github.com/user-attachments/assets/b0805abb-2e2b-4d59-b7ab-395a3792aee2)
+![1](https://github.com/user-attachments/assets/0b9971d1-449f-41ea-9e55-aaa00edafb6e)
+
+![2](https://github.com/user-attachments/assets/dceae9f3-e9dd-41bc-9a4f-97d4a891df10)
+
+![3](https://github.com/user-attachments/assets/d4529420-4a7c-41c9-b103-894b4323cdcc)
